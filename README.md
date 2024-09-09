@@ -44,9 +44,9 @@ Before running this project, ensure you have:
 * Once the automation completes, open the Excel file to view the test results.
 * A "Test Passed" column will show TRUE or FALSE depending on whether the tests were successful.
 ## References
-1. www.youtube.com. (n.d.). 14 September weekly virtual class Automation introduction. [online] Available at: https://www.youtube.com/watch?v=wi18JuLhZ74 [Accessed 3 Sep. 2024].
-2. www.youtube.com. (n.d.). UiPath - How To Publish Process To Orchestrator (Tutorial). [online] Available at: https://www.youtube.com/watch?v=TT3cgpWutD4 [Accessed 7 Sep. 2024].
-3. www.youtube.com. (n.d.). 03 October Project 4 Explained. [online] Available at: https://www.youtube.com/watch?v=5s1-p1okZoc [Accessed 6 Sep. 2024].
+1. YouTube. (n.d.). 14 September weekly virtual class Automation introduction. [online] Available at: https://www.youtube.com/watch?v=wi18JuLhZ74 [Accessed 3 Sep. 2024].
+2. YouTube. (n.d.). UiPath - How To Publish Process To Orchestrator (Tutorial). [online] Available at: https://www.youtube.com/watch?v=TT3cgpWutD4 [Accessed 7 Sep. 2024].
+3. Youtube. (n.d.). 03 October Project 4 Explained. [online] Available at: https://www.youtube.com/watch?v=5s1-p1okZoc [Accessed 6 Sep. 2024].
 4. cloud.contentraven.com. (n.d.). Introduction to RPA and Automation. [online] Available at: https://academy.uipath.com/courses/introduction-to-rpa-and-automation [Accessed 4 Sep. 2024].
 5. UiPath Studio. (n.d.). UI Automation. [online] Available at: https://docs.uipath.com/studio/docs/ui-automation [Accessed 3 Sep. 2024].
 6. Boboc, M. (n.d.). Excel Automation Tutorial - DataTables Automation | UiPath. [online] www.uipath.com. Available at: https://www.uipath.com/learning/video-tutorials/excel-datatables-automation [Accessed 7 Sep. 2024].
@@ -57,11 +57,11 @@ Before running this project, ensure you have:
 11. Anders Jensen (2020). UiPath | How to change the value of cells and columns in Excel | Guide. [online] YouTube. Available at: https://www.youtube.com/watch?v=bxX7w5PVOp8&list=PLXXz88_TPiHp_1N1pRURUpXnEt_quLyag&index=2 [Accessed 7 Sep. 2024].
 12. Anders Jensen (2020). UiPath - How to add data to a new Excel column - Full Tutorial. [online] YouTube. Available at: https://www.youtube.com/watch?v=DTKyWrgDDDg&list=PLXXz88_TPiHp_1N1pRURUpXnEt_quLyag&index=3 [Accessed 7 Sep. 2024].
 13. Anders Jensen (2020). UiPath | How to Read Excel Data, do an Online Search and write the result in the next Column | Guide. [online] YouTube. Available at: https://www.youtube.com/watch?v=9HxtyuAiPTk&list=PLXXz88_TPiHp_1N1pRURUpXnEt_quLyag&index=4 [Accessed 7 Sep. 2024].
-14. www.youtube.com. (n.d.). #Uipath #Exceldata #datatable Uipath : How to read excel data and store into Data table. [online] Available at: https://www.youtube.com/watch?v=5r1cBumKSi4 [Accessed 6 Sep. 2024].
+14. YouTube. (n.d.). #Uipath #Exceldata #datatable Uipath : How to read excel data and store into Data table. [online] Available at: https://www.youtube.com/watch?v=5r1cBumKSi4 [Accessed 6 Sep. 2024].
 15. UIpath RPA Learners (2022). UiPath: How to Combine/Concatenate Strings | UiPath For Beginners | UiPathRPA. [online] YouTube. Available at: https://www.youtube.com/watch?v=dX3nRztRCvQ [Accessed 8 Sep. 2024].
 16. UIpath RPA Learners (2022). UiPath: What is Array | How to use Array in Uipath | With Example. [online] YouTube. Available at: https://www.youtube.com/watch?v=zqOhWV_bpgU [Accessed 8 Sep. 2024].
 17. UiPath RPA (2018). UiPath Array Variable | String []Variable | Types of UiPath Variable | UiPathRPA. [online] YouTube. Available at: https://www.youtube.com/watch?v=qZduW3Gaz8k [Accessed 7 Sep. 2024].
 18. Wikipedia. (2021). UiPath. [online] Available at: https://en.wikipedia.org/wiki/UiPath [Accessed 2 Sep. 2024].
 19. Uipath.com. (2023). Available at: https://docs.uipath.com/orchestrator/automation-cloud/latest [Accessed 5 Sep. 2024].
 20. Tutorials by Mukesh Kala (2022). What is UiPath Orchestrator | Overview | Importance | Capabilities | Beginners. [online] YouTube. Available at: https://www.youtube.com/watch?v=MVEiFUdEJ8U [Accessed 6 Sep. 2024].
-21. www.youtube.com. (n.d.). How Do I Publish UiPath Project Locally and Upload it to Orchestrator | Export UiPath Project. [online] Available at: https://www.youtube.com/watch?v=0PGvblwopdw [Accessed 8 Sep. 2024].
+21. YouTube. (n.d.). How Do I Publish UiPath Project Locally and Upload it to Orchestrator | Export UiPath Project. [online] Available at: https://www.youtube.com/watch?v=0PGvblwopdw [Accessed 8 Sep. 2024].
