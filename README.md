@@ -1,4 +1,4 @@
-# CMPG 323 Project 4 - User Acceptance Testing Automation
+# User Acceptance Testing Automation
 ## Project Overview
 This project automates the User Acceptance Testing (UAT) process for the NWU Tech Trends Telemetry Portal. The testing ensures that CRUD (Create, Read, Update, Delete) functionality for Clients and Projects is accurately validated against test data provided in an Excel file. The solution is developed using UiPath and deployed to UiPath Orchestrator for automated execution.
 ## Objectives
